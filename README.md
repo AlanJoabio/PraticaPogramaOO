@@ -26,12 +26,12 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 <!-- Java -->
 
 <a href="[https://web.dio.me/track/java-developer]">
-<img src="./photo/java.png" alt=" - Java Developer" tittle="Java" width="50" height="50">
+<img src="./photo/java.png" alt=" - Java Developer" tittle="Java" width="80" height="80">
 
 <!-- gft-start-4-Java -->
 
 <a href="[https://web.dio.me/track/gft-start-4-java]">
-<img src="./photo/gft.png" alt=" - GFT Start #4 Java" tittle="Java" width="50" height="50">
+<img src="./photo/gft.png" alt=" - GFT Start #4 Java" tittle="Java" width="80" height="80">
 </a>
 </p>
 
