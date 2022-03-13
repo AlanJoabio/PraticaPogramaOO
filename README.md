@@ -18,20 +18,23 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 #### São:
 
 <p align="center">
-<img src="./photo/java.png" alt="java" tittle="Java">
-</p>
 
 <!-- Ícones das linguagens -->
 
 <!-- Java -->
 
 <a href="[https://web.dio.me/track/java-developer]">
-<img src="./assets/java.svg" alt=" - Java Developer" tittle="Java" width="70" height="70">
+<img src="./photo/java.png" alt=" - Java Developer" tittle="Java" width="90" height="90">
 
 <!-- gft-start-4-Java -->
 
 <a href="[https://web.dio.me/track/gft-start-4-java]">
-<img src="./assets/java.svg" alt=" - GFT Start #4 Java" tittle="Java" width="70" height="70">
+<img src="./photo/gft" alt=" - GFT Start #4 Java" tittle="Java" width="90" height="90">
 </a>
 
+<a href="[https://web.dio.me/track/cd71a3e7-dfd2-425a-b635-5db0dbae00da]">
+<img src="https://hermes.digitalinnovation.one/tracks/936b7d01-ec68-409b-9db7-e1a5c06a3efe.png" alt=" - GFT Start #4 Java" tittle="Java" width="90" height="90">
+</a>
+  
+</p>
 ----------------------------------------------------
