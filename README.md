@@ -29,11 +29,15 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 <!-- gft-start-4-Java -->
 
 <a href="[https://web.dio.me/track/gft-start-4-java]">
-<img src="./photo/gft" alt=" - GFT Start #4 Java" tittle="Java" width="90" height="90">
+<img src="./photo/gft.png" alt=" - GFT Start #4 Java" tittle="Java" width="90" height="90">
 </a>
 
 <a href="[https://web.dio.me/track/cd71a3e7-dfd2-425a-b635-5db0dbae00da]">
-<img src="https://hermes.digitalinnovation.one/tracks/936b7d01-ec68-409b-9db7-e1a5c06a3efe.png" alt=" - GFT Start #4 Java" tittle="Java" width="90" height="90">
+<img src="https://hermes.digitalinnovation.one/tracks/936b7d01-ec68-409b-9db7-e1a5c06a3efe.png" alt=" - GFT - Quality Assurance#1" tittle="Java" width="90" height="90">
+</a>
+
+<a href="[https://web.dio.me/track/5c0a81e0-3566-4314-8075-298147b2858d]">
+<img src="https://hermes.digitalinnovation.one/tracks/0168902d-e703-4a51-af7a-eceda69637f1.png" alt=" - Philips Fullstack Developer" tittle="Java" width="90" height="90">
 </a>
   
 </p>
